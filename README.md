@@ -1,4 +1,4 @@
 <p align="center">
-![logo](https://raw.githubusercontent.com/habemus-python/habemus-python.github.io/refs/heads/main/logo.png)
+    <img src="https://raw.githubusercontent.com/habemus-python/habemus-python.github.io/refs/heads/main/logo.png" alt="logo">
 </p>
 # Handbook of Automation for BEng &amp; Master's projects USing PYTHON
