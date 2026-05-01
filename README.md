@@ -22,7 +22,16 @@ We're launching an initiative to create and maintain resources that help student
 
 ### <span class="emoji">🌟</span> Flagship project
 
-[**Quarto template for BEng/MSc/PhD theses**](https://github.com/habemus-python/quarto-reproducible-thesis)
+[**Quarto template for BEng/MSc/PhD theses**](https://github.com/habemus-python/quarto-reproducible-thesis) enabling 
+  composing (and reproducing) an entire thesis from a single Jupyter notebook:
+
+<p align="center">
+    <img 
+        src="https://github.com/habemus-python/quarto-reproducible-thesis/releases/download/tip/thesis.gif" 
+        alt="pdf converted to animated gif"
+        width="50%"
+    />
+</p>
 
 ### <span class="emoji">📚</span> Further reading
 
