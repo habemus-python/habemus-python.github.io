@@ -20,16 +20,25 @@ We're launching an initiative to create and maintain resources that help student
   combine reproducible research, productive software engineering with CI automation,
   and code-integrated high-quality typesetting in their degree projects. 
 
-### <span class="emoji">🌟</span> Flagship project
+### <span class="emoji">🌟</span> Flagship projects
 
-[**Quarto template for BEng/MSc/PhD theses**](https://github.com/habemus-python/quarto-reproducible-thesis) enabling 
-  composing (and reproducing) an entire thesis from a single Jupyter notebook:
+#### [**Quarto template for BEng/MSc/PhD theses**](https://github.com/habemus-python/quarto-reproducible-thesis) enabling composing (and reproducing) an entire thesis in Python/Markdown/LaTeX/BiblaTeX from a single Jupyter notebook:
 
 <p align="center">
     <img 
         src="https://github.com/habemus-python/quarto-reproducible-thesis/releases/download/tip/thesis.gif" 
-        alt="pdf converted to animated gif"
+        alt="pdf converted to an animated gif"
         width="50%"
+    />
+</p>
+
+#### [**Quarto AGH slide deck**](https://github.com/habemus-python/quarto-agh-slides) enabling composing (and reproducing) a set of presentation slides in Python/RevealJS/citeproc from a single Jupyter notebook:
+
+<p align="center">
+    <img 
+        src="https://raw.githubusercontent.com/habemus-python/quarto-agh-slides/refs/heads/gif/slides.gif" 
+        alt="slides converted to an animated gif"
+        width="75%"
     />
 </p>
 
