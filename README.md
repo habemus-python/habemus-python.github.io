@@ -16,9 +16,14 @@
 
 ## Handbook of Automation for BEng &amp; Master's projects USing PYTHON
 
-We're launching an initiative to create and maintain resources that help students 
-  combine reproducible research, productive software engineering with CI automation,
-  and code-integrated high-quality typesetting in their degree projects. 
+We create resources to help students combine reproducible research, software engineering with CI automation, 
+  and high-quality, code-based typesetting in their projects.
+Our practical examples show how to use the “executable manuscripts” approach 
+  [(see, e.g., Perkel 2022, Nature)](https://doi.org/10.1038/d41586-022-00563-z).
+
+<p align="center"><strong>
+Write it. Run it. Share it. Engineer your documents to be reproducible, automated, and aesthetic by design!
+</strong></p>
 
 ### <span class="emoji">🌟</span> Flagship projects
 
