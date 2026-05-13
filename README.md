@@ -17,7 +17,7 @@
 ## Handbook of Automation for BEng &amp; Master's projects USing PYTHON
 
 We create resources to help students combine reproducible research, software engineering with CI automation, 
-  and high-quality, code-based typesetting in their projects.
+  and high-quality, code-based typesetting.
 Our practical examples show how to use the “executable manuscripts” approach 
   [(see, e.g., Perkel 2022, Nature)](https://doi.org/10.1038/d41586-022-00563-z).
 
@@ -30,21 +30,21 @@ Write it. Run it. Share it. Engineer your documents to be reproducible, automate
 #### [**Quarto template for BEng/MSc/PhD theses**](https://github.com/habemus-python/quarto-reproducible-thesis) enabling composing (and reproducing) an entire thesis in Python/Markdown/LaTeX/BiblaTeX from a single Jupyter notebook:
 
 <p align="center">
-    <img 
+    <a href="https://github.com/habemus-python/quarto-reproducible-thesis"><img 
         src="https://github.com/habemus-python/quarto-reproducible-thesis/releases/download/tip/thesis.gif" 
         alt="pdf converted to an animated gif"
         width="50%"
-    />
+    /></a>
 </p>
 
 #### [**Quarto AGH slide deck**](https://github.com/habemus-python/quarto-agh-slides) enabling composing (and reproducing) a set of presentation slides in Python/RevealJS/citeproc from a single Jupyter notebook:
 
 <p align="center">
-    <img 
+    <a href="https://github.com/habemus-python/quarto-agh-slides"><img 
         src="https://raw.githubusercontent.com/habemus-python/quarto-agh-slides/refs/heads/gif/slides.gif" 
         alt="slides converted to an animated gif"
         width="75%"
-    />
+    /></a>
 </p>
 
 ### <span class="emoji">📚</span> Further reading
